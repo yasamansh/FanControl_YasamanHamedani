@@ -1,0 +1,12 @@
+{
+	"SubSystem":[
+	{"id": 1,"temp": -100 , "PWM" : 0},
+	{"id": 2,"temp": 0 , "PWM" : 0},
+	{"id": 3,"temp": 25 , "PWM" : 0},
+	{"id": 4,"temp": 70 , "PWM" : 0},
+	{"id": 5,"temp": 89 , "PWM" : 0},
+	{"id": 6,"temp": 35 , "PWM" : 0},
+	{"id": 7,"temp": 15 , "PWM" : 0},
+	{"id": 8,"temp": 15.7 , "PWM" : 0}
+	]
+}
